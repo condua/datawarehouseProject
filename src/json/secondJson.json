@@ -1,0 +1,2116 @@
+[
+    {
+      "STT": 1,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-quoc-te?keyword=AIS",
+      "CollegeName": "Học viện quốc tế",
+      "CollegeCode": "AIS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 2,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-an-ninh-nhan-dan?keyword=ANH",
+      "CollegeName": "Học viện An Ninh Nhân Dân",
+      "CollegeCode": "ANH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 3,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-an-ninh-nhan-dan?keyword=ANS",
+      "CollegeName": "Đại học An Ninh Nhân Dân",
+      "CollegeCode": "ANS",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 4,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-bach-khoa-ha-noi?keyword=BKA",
+      "CollegeName": "Đại học Bách khoa Hà Nội",
+      "CollegeCode": "BKA",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 5,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-buon-ma-thuot?keyword=BMU",
+      "CollegeName": "Đại học Buôn Ma Thuột",
+      "CollegeCode": "BMU",
+      "Province": "Đắk Lắk"
+    },
+    {
+      "STT": 6,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-bien-phong?keyword=BPH",
+      "CollegeName": "Học viện Biên Phòng",
+      "CollegeCode": "BPH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 7,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-bac?keyword=BVH",
+      "CollegeName": "Học viện Công nghệ Bưu chính Viễn thông (phía Bắc)",
+      "CollegeCode": "BVH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 8,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-nam?keyword=BVS",
+      "CollegeName": "Học viện Công nghệ Bưu chính Viễn thông (phía Nam)",
+      "CollegeCode": "BVS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 9,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ba-ria-vung-tau?keyword=BVU",
+      "CollegeName": "Đại học Bà Rịa Vũng Tàu",
+      "CollegeCode": "BVU",
+      "Province": "Bà Rịa - Vũng Tàu"
+    },
+    {
+      "STT": 10,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghiep-det-may-ha-noi?keyword=CCM",
+      "CollegeName": "Đại học Công Nghiệp Dệt May Hà Nội",
+      "CollegeCode": "CCM",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 11,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-te-nghe-an?keyword=CEA",
+      "CollegeName": "Đại học Kinh Tế Nghệ An",
+      "CollegeCode": "CEA",
+      "Province": "Nghệ An"
+    },
+    {
+      "STT": 12,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-canh-sat-nhan-dan?keyword=CSH",
+      "CollegeName": "Học viện Cảnh sát nhân dân",
+      "CollegeCode": "CSH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 13,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-canh-sat-nhan-dan?keyword=CSS",
+      "CollegeName": "Đại học Cảnh Sát Nhân Dân",
+      "CollegeCode": "CSS",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 14,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-dong-a?keyword=DAD",
+      "CollegeName": "Đại Học Đông Á",
+      "CollegeCode": "DAD",
+      "Province": "Đà Nẵng"
+    },
+    {
+      "STT": 15,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-binh-duong?keyword=DBD",
+      "CollegeName": "Đại học Bình Dương",
+      "CollegeCode": "DBD",
+      "Province": "Bình Dương"
+    },
+    {
+      "STT": 16,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-nong-lam-bac-giang?keyword=DBG",
+      "CollegeName": "Đại học Nông Lâm Bắc Giang",
+      "CollegeCode": "DBG",
+      "Province": "Bắc Giang"
+    },
+    {
+      "STT": 17,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-quoc-te-bac-ha?keyword=DBH",
+      "CollegeName": "Đại Học Quốc Tế Bắc Hà",
+      "CollegeCode": "DBH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 18,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-bac-lieu?keyword=DBL",
+      "CollegeName": "Đại học Bạc Liêu",
+      "CollegeCode": "DBL",
+      "Province": "Bạc Liêu"
+    },
+    {
+      "STT": 19,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-chu-van-an?keyword=DCA",
+      "CollegeName": "Đại học Chu Văn An",
+      "CollegeCode": "DCA",
+      "Province": "Hưng Yên"
+    },
+    {
+      "STT": 20,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghe-dong-nai?keyword=DCD",
+      "CollegeName": "Đại học Công nghệ Đồng Nai",
+      "CollegeCode": "DCD",
+      "Province": "Đồng Nai"
+    },
+    {
+      "STT": 21,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-dac-cong?keyword=DCH",
+      "CollegeName": "Trường Sĩ Quan Đặc Công",
+      "CollegeCode": "DCH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 22,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cuu-long?keyword=DCL",
+      "CollegeName": "Đại học Cửu Long",
+      "CollegeCode": "DCL",
+      "Province": "Vĩnh Long"
+    },
+    {
+      "STT": 23,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghiep-ha-noi?keyword=DCN",
+      "CollegeName": "Đại học Công nghiệp Hà Nội",
+      "CollegeCode": "DCN",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 24,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghe-va-quan-ly-huu-nghi?keyword=DCQ",
+      "CollegeName": "Đại học Công Nghệ và Quản Lý Hữu Nghị",
+      "CollegeCode": "DCQ",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 25,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghiep-thuc-pham-tp-hcm?keyword=DCT",
+      "CollegeName": "Đại học Công nghiệp Thực phẩm TP HCM",
+      "CollegeCode": "DCT",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 26,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghiep-vinh?keyword=DCV",
+      "CollegeName": "Đại học Công nghiệp Vinh",
+      "CollegeCode": "DCV",
+      "Province": "Nghệ An"
+    },
+    {
+      "STT": 27,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghe-dong-a?keyword=DDA",
+      "CollegeName": "Đại học Công Nghệ Đông Á",
+      "CollegeCode": "DDA",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 28,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-thanh-dong?keyword=DDB",
+      "CollegeName": "Đại Học Thành Đông",
+      "CollegeCode": "DDB",
+      "Province": "Hải Dương"
+    },
+    {
+      "STT": 29,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ngoai-ngu-dai-hoc-da-nang?keyword=DDF",
+      "CollegeName": "Đại học Ngoại Ngữ - Đại học Đà Nẵng",
+      "CollegeCode": "DDF",
+      "Province": "Đà Nẵng"
+    },
+    {
+      "STT": 30,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/khoa-giao-duc-the-chat-dai-hoc-da-nang?keyword=DDG",
+      "CollegeName": "Khoa Giáo dục thể chất - Đại học Đà Nẵng",
+      "CollegeCode": "DDG",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 31,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-bach-khoa-dai-hoc-da-nang?keyword=DDK",
+      "CollegeName": "Đại học Bách Khoa - Đại học Đà Nẵng",
+      "CollegeCode": "DDK",
+      "Province": "Đà Nẵng"
+    },
+    {
+      "STT": 32,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-dien-luc?keyword=DDL",
+      "CollegeName": "Đại học Điện lực",
+      "CollegeCode": "DDL",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 33,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghiep-quang-ninh?keyword=DDM",
+      "CollegeName": "Đại học Công Nghiệp Quảng Ninh",
+      "CollegeCode": "DDM",
+      "Province": "Quảng Ninh"
+    },
+    {
+      "STT": 34,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-dai-nam?keyword=DDN",
+      "CollegeName": "Đại học Đại Nam",
+      "CollegeCode": "DDN",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 35,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/phan-hieu-dai-hoc-da-nang-tai-kon-tum?keyword=DDP",
+      "CollegeName": "Phân Hiệu Đại học Đà Nẵng tại Kon Tum",
+      "CollegeCode": "DDP",
+      "Province": "Kon Tum"
+    },
+    {
+      "STT": 36,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-te-dai-hoc-da-nang?keyword=DDQ",
+      "CollegeName": "Đại học Kinh Tế - Đại học Đà Nẵng",
+      "CollegeCode": "DDQ",
+      "Province": "Đà Nẵng"
+    },
+    {
+      "STT": 37,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-su-pham-dai-hoc-da-nang?keyword=DDS",
+      "CollegeName": "Đại học Sư Phạm - Đại học Đà Nẵng",
+      "CollegeCode": "DDS",
+      "Province": "Đà Nẵng"
+    },
+    {
+      "STT": 38,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-dan-lap-duy-tan?keyword=DDT",
+      "CollegeName": "Đại học Dân Lập Duy Tân",
+      "CollegeCode": "DDT",
+      "Province": "Đà Nẵng"
+    },
+    {
+      "STT": 39,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-dong-do?keyword=DDU",
+      "CollegeName": "Đại Học Đông Đô",
+      "CollegeCode": "DDU",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 40,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/vien-nghien-cuu-va-dao-tao-viet-anh-dai-hoc-da-nang?keyword=DDV",
+      "CollegeName": "Viện Nghiên cứu và Đào tạo Việt - Anh - Đại học Đà Nẵng",
+      "CollegeCode": "DDV",
+      "Province": "Đà Nẵng"
+    },
+    {
+      "STT": 41,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/khoa-y-duoc-dai-hoc-da-nang?keyword=DDY",
+      "CollegeName": "Khoa Y Dược - Đại học Đà Nẵng",
+      "CollegeCode": "DDY",
+      "Province": "Đà Nẵng"
+    },
+    {
+      "STT": 42,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dfa?keyword=DFA",
+      "CollegeName": "DFA",
+      "CollegeCode": "DFA",
+      "Province": "Hưng Yên"
+    },
+    {
+      "STT": 43,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-luat-dai-hoc-hue?keyword=DHA",
+      "CollegeName": "Đại học Luật - Đại học Huế",
+      "CollegeCode": "DHA",
+      "Province": "Huế"
+    },
+    {
+      "STT": 44,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/khoa-giao-duc-the-chat-dai-hoc-hue?keyword=DHC",
+      "CollegeName": "Khoa Giáo Dục Thể Chất - Đại học Huế",
+      "CollegeCode": "DHC",
+      "Province": "Huế"
+    },
+    {
+      "STT": 45,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/khoa-du-lich-dai-hoc-hue?keyword=DHD",
+      "CollegeName": "Khoa Du Lịch - Đại học Huế",
+      "CollegeCode": "DHD",
+      "Province": "Huế"
+    },
+    {
+      "STT": 46,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/khoa-ky-thuat-va-cong-nghe-dh-hue?keyword=DHE",
+      "CollegeName": "Khoa Kỹ thuật và Công Nghệ - ĐH Huế",
+      "CollegeCode": "DHE",
+      "Province": "Huế"
+    },
+    {
+      "STT": 47,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ngoai-ngu-dai-hoc-hue?keyword=DHF",
+      "CollegeName": "Đại học Ngoại Ngữ - Đại học Huế",
+      "CollegeCode": "DHF",
+      "Province": "Huế"
+    },
+    {
+      "STT": 48,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ha-hoa-tien?keyword=DHH",
+      "CollegeName": "Đại Học Hà Hoa Tiên",
+      "CollegeCode": "DHH",
+      "Province": "Hà Nam"
+    },
+    {
+      "STT": 49,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/khoa-quoc-te-dh-hue?keyword=DHI",
+      "CollegeName": "Khoa Quốc Tế - ĐH Huế",
+      "CollegeCode": "DHI",
+      "Province": "Huế"
+    },
+    {
+      "STT": 50,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-te-dai-hoc-hue?keyword=DHK",
+      "CollegeName": "Đại học Kinh Tế - Đại học Huế",
+      "CollegeCode": "DHK",
+      "Province": "Huế"
+    },
+    {
+      "STT": 51,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-nong-lam-dai-hoc-hue?keyword=DHL",
+      "CollegeName": "Đại học Nông Lâm - Đại học Huế",
+      "CollegeCode": "DHL",
+      "Province": "Huế"
+    },
+    {
+      "STT": 52,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-nghe-thuat-dai-hoc-hue?keyword=DHN",
+      "CollegeName": "Đại học Nghệ Thuật - Đại học Huế",
+      "CollegeCode": "DHN",
+      "Province": "Huế"
+    },
+    {
+      "STT": 53,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-dan-lap-hai-phong?keyword=DHP",
+      "CollegeName": "Đại Học Dân Lập Hải Phòng",
+      "CollegeCode": "DHP",
+      "Province": "Hải Phòng"
+    },
+    {
+      "STT": 54,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/phan-hieu-dai-hoc-hue-tai-quang-tri?keyword=DHQ",
+      "CollegeName": "Phân Hiệu Đại học Huế tại Quảng Trị",
+      "CollegeCode": "DHQ",
+      "Province": "Huế"
+    },
+    {
+      "STT": 55,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-su-pham-dai-hoc-hue?keyword=DHS",
+      "CollegeName": "Đại học Sư Phạm - Đại học Huế",
+      "CollegeCode": "DHS",
+      "Province": "Huế"
+    },
+    {
+      "STT": 56,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-khoa-hoc-dai-hoc-hue?keyword=DHT",
+      "CollegeName": "Đại học Khoa Học - Đại học Huế",
+      "CollegeCode": "DHT",
+      "Province": "Huế"
+    },
+    {
+      "STT": 57,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-hung-vuong-tp-hcm?keyword=DHV",
+      "CollegeName": "Đại học Hùng Vương TP HCM",
+      "CollegeCode": "DHV",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 58,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-y-duoc-dai-hoc-hue?keyword=DHY",
+      "CollegeName": "Đại học Y Dược - Đại học Huế",
+      "CollegeCode": "DHY",
+      "Province": "Huế"
+    },
+    {
+      "STT": 59,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-te-ky-thuat-binh-duong?keyword=DKB",
+      "CollegeName": "Đại học Kinh tế Kỹ thuật Bình Dương",
+      "CollegeCode": "DKB",
+      "Province": "Bình Dương"
+    },
+    {
+      "STT": 60,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghe-tp-hcm?keyword=DKC",
+      "CollegeName": "Đại học Công nghệ TP HCM",
+      "CollegeCode": "DKC",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 61,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-te-ky-thuat-cong-nghiep-nam-dinh?keyword=DKD",
+      "CollegeName": "Đại học Kinh tế Kỹ thuật công nghiệp Nam Định",
+      "CollegeCode": "DKD",
+      "Province": "Nam Định"
+    },
+    {
+      "STT": 62,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-duoc-ha-noi?keyword=DKH",
+      "CollegeName": "Đại học Dược Hà Nội",
+      "CollegeCode": "DKH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 63,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-te-ky-thuat-cong-nghiep?keyword=DKK",
+      "CollegeName": "Đại học Kinh Tế Kỹ Thuật Công Nghiệp",
+      "CollegeCode": "DKK",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 64,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-tai-chinh-ke-toan?keyword=DKQ",
+      "CollegeName": "Đại học Tài Chính Kế Toán",
+      "CollegeCode": "DKQ",
+      "Province": "Quảng Ngãi"
+    },
+    {
+      "STT": 65,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kiem-sat-ha-noi?keyword=DKS",
+      "CollegeName": "Đại học Kiểm sát Hà Nội",
+      "CollegeCode": "DKS",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 66,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-hai-duong?keyword=DKT",
+      "CollegeName": "Đại Học Hải Dương",
+      "CollegeCode": "DKT",
+      "Province": "Hải Dương"
+    },
+    {
+      "STT": 67,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ky-thuat-y-te-hai-duong?keyword=DKY",
+      "CollegeName": "Đại học Kỹ thuật Y tế Hải Dương",
+      "CollegeCode": "DKY",
+      "Province": "Hải Dương"
+    },
+    {
+      "STT": 68,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-te-cong-nghiep-long-an?keyword=DLA",
+      "CollegeName": "Đại học Kinh tế Công nghiệp Long An",
+      "CollegeCode": "DLA",
+      "Province": "Long An"
+    },
+    {
+      "STT": 69,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-lac-hong?keyword=DLH",
+      "CollegeName": "Đại học Lạc Hồng",
+      "CollegeCode": "DLH",
+      "Province": "Đồng Nai"
+    },
+    {
+      "STT": 70,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-lao-dong-xa-hoi-co-so-phia-nam?keyword=DLS",
+      "CollegeName": "Đại học Lao động - Xã hội (Cơ sở phía Nam)",
+      "CollegeCode": "DLS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 71,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-lao-dong-xa-hoi-co-so-son-tay?keyword=DLT",
+      "CollegeName": "Đại Học Lao động – Xã hội ( Cơ sở Sơn Tây )",
+      "CollegeCode": "DLT",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 72,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-lao-dong-xa-hoi-co-so-ha-noi?keyword=DLX",
+      "CollegeName": "Đại học Lao động - Xã hội (Cơ sở Hà Nội)",
+      "CollegeCode": "DLX",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 73,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghe-mien-dong?keyword=DMD",
+      "CollegeName": "Đại học Công nghệ Miền Đông",
+      "CollegeCode": "DMD",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 74,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-tai-chinh-marketing?keyword=DMS",
+      "CollegeName": "Đại học Tài chính Marketing",
+      "CollegeCode": "DMS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 75,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-tai-nguyen-va-moi-truong-ha-noi?keyword=DMT",
+      "CollegeName": "Đại học Tài nguyên và Môi trường Hà Nội",
+      "CollegeCode": "DMT",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 76,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/phan-hieu-dh-tai-nguyen-va-moi-truong-tai-thanh-hoa?keyword=DMT2",
+      "CollegeName": "Phân hiệu ĐH Tài nguyên và Môi trường tại Thanh Hoá",
+      "CollegeCode": "DMT2",
+      "Province": "Thanh Hóa"
+    },
+    {
+      "STT": 77,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-hoa-lu?keyword=DNB",
+      "CollegeName": "Đại học Hoa Lư",
+      "CollegeCode": "DNB",
+      "Province": "Ninh Bình"
+    },
+    {
+      "STT": 78,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-nam-can-tho?keyword=DNC",
+      "CollegeName": "Đại học Nam Cần Thơ",
+      "CollegeCode": "DNC",
+      "Province": "Cần Thơ"
+    },
+    {
+      "STT": 79,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-khoa-hoc-quan-su-he-dan-su?keyword=DNH",
+      "CollegeName": "Học Viện Khoa Học Quân Sự - Hệ Dân sự",
+      "CollegeCode": "DNH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 80,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ngoai-ngu-tin-hoc-tp-hcm?keyword=DNT",
+      "CollegeName": "Đại học Ngoại ngữ - Tin học TP HCM",
+      "CollegeCode": "DNT",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 81,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-dong-nai?keyword=DNU",
+      "CollegeName": "Đại học Đồng Nai",
+      "CollegeCode": "DNU",
+      "Province": "Đồng Nai"
+    },
+    {
+      "STT": 82,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/phan-hieu-dai-hoc-noi-vu-tai-quang-nam?keyword=DNV",
+      "CollegeName": "Phân hiệu Đại học Nội vụ tại Quảng Nam",
+      "CollegeCode": "DNV",
+      "Province": "Quảng Nam"
+    },
+    {
+      "STT": 83,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-phan-chau-trinh?keyword=DPC",
+      "CollegeName": "Đại học Phan Châu Trinh",
+      "CollegeCode": "DPC",
+      "Province": "Quảng Nam"
+    },
+    {
+      "STT": 84,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-dan-lap-phuong-dong?keyword=DPD",
+      "CollegeName": "Đại học Dân lập Phương Đông",
+      "CollegeCode": "DPD",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 85,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-pham-van-dong?keyword=DPQ",
+      "CollegeName": "Đại học Phạm Văn Đồng",
+      "CollegeCode": "DPQ",
+      "Province": "Quảng Ngãi"
+    },
+    {
+      "STT": 86,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-phan-thiet?keyword=DPT",
+      "CollegeName": "Đại học Phan Thiết",
+      "CollegeCode": "DPT",
+      "Province": "Bình Thuận"
+    },
+    {
+      "STT": 87,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-dan-lap-phu-xuan?keyword=DPX",
+      "CollegeName": "Đại học Dân Lập Phú Xuân",
+      "CollegeCode": "DPX",
+      "Province": "Huế"
+    },
+    {
+      "STT": 88,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-phu-yen?keyword=DPY",
+      "CollegeName": "Đại học Phú Yên",
+      "CollegeCode": "DPY",
+      "Province": "Phú Yên"
+    },
+    {
+      "STT": 89,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-quang-binh?keyword=DQB",
+      "CollegeName": "Đại Học Quảng Bình",
+      "CollegeCode": "DQB",
+      "Province": "Quảng Bình"
+    },
+    {
+      "STT": 90,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-ki-thuat-quan-su-he-dan-su?keyword=DQH",
+      "CollegeName": "Học Viện Kĩ Thuật Quân Sự - Hệ Dân sự",
+      "CollegeCode": "DQH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 91,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-doanh-va-cong-nghe-ha-noi?keyword=DQK",
+      "CollegeName": "Đại học Kinh doanh và Công nghệ Hà Nội",
+      "CollegeCode": "DQK",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 92,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-quy-nhon?keyword=DQN",
+      "CollegeName": "Đại học Quy Nhơn",
+      "CollegeCode": "DQN",
+      "Province": "Bình Định"
+    },
+    {
+      "STT": 93,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-quang-trung?keyword=DQT",
+      "CollegeName": "Đại học Quang Trung",
+      "CollegeCode": "DQT",
+      "Province": "Bình Định"
+    },
+    {
+      "STT": 94,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-quang-nam?keyword=DQU",
+      "CollegeName": "Đại học Quảng Nam",
+      "CollegeCode": "DQU",
+      "Province": "Quảng Nam"
+    },
+    {
+      "STT": 95,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-san-khau-dien-anh-tp-hcm?keyword=DSD",
+      "CollegeName": "Đại học Sân khấu - Điện ảnh TP HCM",
+      "CollegeCode": "DSD",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 96,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghe-sai-gon?keyword=DSG",
+      "CollegeName": "Đại học Công nghệ Sài Gòn",
+      "CollegeCode": "DSG",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 97,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-su-pham-ky-thuat-dai-hoc-da-nang?keyword=DSK",
+      "CollegeName": "Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng",
+      "CollegeCode": "DSK",
+      "Province": "Đà Nẵng"
+    },
+    {
+      "STT": 98,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-phenikaa?keyword=DTA",
+      "CollegeName": "Đại học Phenikaa",
+      "CollegeCode": "DTA",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 99,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-thai-binh?keyword=DTB",
+      "CollegeName": "Đại học Thái Bình",
+      "CollegeCode": "DTB",
+      "Province": "Thái Bình"
+    },
+    {
+      "STT": 100,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghe-thong-tin-va-truyen-thong-dai-hoc-thai-nguyen?keyword=DTC",
+      "CollegeName": "Đại học Công Nghệ Thông Tin và Truyền Thông - Đại học Thái Nguyên",
+      "CollegeCode": "DTC",
+      "Province": "Thái Nguyên"
+    },
+    {
+      "STT": 101,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-tay-do?keyword=DTD",
+      "CollegeName": "Đại học Tây Đô",
+      "CollegeCode": "DTD",
+      "Province": "Cần Thơ"
+    },
+    {
+      "STT": 102,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-te-quan-tri-kinh-doanh-dai-hoc-thai-nguyen?keyword=DTE",
+      "CollegeName": "Đại học Kinh Tế  & Quản Trị Kinh Doanh - Đại học Thái Nguyên",
+      "CollegeCode": "DTE",
+      "Province": "Thái Nguyên"
+    },
+    {
+      "STT": 103,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/khoa-ngoai-ngu-dai-hoc-thai-nguyen?keyword=DTF",
+      "CollegeName": "Khoa Ngoại Ngữ - Đại học Thái Nguyên",
+      "CollegeCode": "DTF",
+      "Province": "Thái Nguyên"
+    },
+    {
+      "STT": 104,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ky-thuat-cong-nghiep-dai-hoc-thai-nguyen?keyword=DTK",
+      "CollegeName": "Đại học Kỹ Thuật Công Nghiệp - Đại học Thái Nguyên",
+      "CollegeCode": "DTK",
+      "Province": "Thái Nguyên"
+    },
+    {
+      "STT": 105,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-thang-long?keyword=DTL",
+      "CollegeName": "Đại học Thăng Long",
+      "CollegeCode": "DTL",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 106,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-tai-nguyen-va-moi-truong-tp-hcm?keyword=DTM",
+      "CollegeName": "Đại học Tài nguyên và Môi trường TP HCM",
+      "CollegeCode": "DTM",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 107,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-nong-lam-dai-hoc-thai-nguyen?keyword=DTN",
+      "CollegeName": "Đại học Nông Lâm - Đại học Thái Nguyên",
+      "CollegeCode": "DTN",
+      "Province": "Thái Nguyên"
+    },
+    {
+      "STT": 108,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/phan-hieu-dai-hoc-thai-nguyen-tai-lao-cai?keyword=DTP",
+      "CollegeName": "Phân hiệu Đại học Thái Nguyên tại Lào Cai",
+      "CollegeCode": "DTP",
+      "Province": "Lào Cai"
+    },
+    {
+      "STT": 109,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/khoa-quoc-te-dai-hoc-thai-nguyen?keyword=DTQ",
+      "CollegeName": "Khoa Quốc Tế - Đại học Thái Nguyên",
+      "CollegeCode": "DTQ",
+      "Province": "Thái Nguyên"
+    },
+    {
+      "STT": 110,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/daihoc-su-pham-dai-hoc-thai-nguyen?keyword=DTS",
+      "CollegeName": "Đại Học Sư Phạm - Đại học Thái Nguyên",
+      "CollegeCode": "DTS",
+      "Province": "Thái Nguyên"
+    },
+    {
+      "STT": 111,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ton-duc-thang?keyword=DTT",
+      "CollegeName": "Đại học Tôn Đức Thắng",
+      "CollegeCode": "DTT",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 112,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-luong-the-vinh?keyword=DTV",
+      "CollegeName": "Đại Học Lương Thế Vinh",
+      "CollegeCode": "DTV",
+      "Province": "Nam Định"
+    },
+    {
+      "STT": 113,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-y-duoc-dai-hoc-thai-nguyen?keyword=DTY",
+      "CollegeName": "Đại học Y Dược - Đại học Thái Nguyên",
+      "CollegeCode": "DTY",
+      "Province": "Thái Nguyên"
+    },
+    {
+      "STT": 114,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-khoa-hoc-dai-hoc-thai-nguyen?keyword=DTZ",
+      "CollegeName": "Đại học Khoa Học - Đại học Thái Nguyên",
+      "CollegeCode": "DTZ",
+      "Province": "Thái Nguyên"
+    },
+    {
+      "STT": 115,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-viet-bac?keyword=DVB",
+      "CollegeName": "Đại học Việt Bắc",
+      "CollegeCode": "DVB",
+      "Province": "Thái Nguyên"
+    },
+    {
+      "STT": 116,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-van-hoa-the-thao-va-du-lich-thanh-hoa?keyword=DVD",
+      "CollegeName": "Đại học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa",
+      "CollegeCode": "DVD",
+      "Province": "Thanh Hóa"
+    },
+    {
+      "STT": 117,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-van-hien?keyword=DVH",
+      "CollegeName": "Đại học Văn Hiến",
+      "CollegeCode": "DVH",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 118,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-van-lang?keyword=DVL",
+      "CollegeName": "Đại học Văn Lang",
+      "CollegeCode": "DVL",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 119,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-trung-vuong?keyword=DVP",
+      "CollegeName": "Đại học Trưng Vương",
+      "CollegeCode": "DVP",
+      "Province": "Vĩnh Phúc"
+    },
+    {
+      "STT": 120,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-tra-vinh?keyword=DVT",
+      "CollegeName": "Đại học Trà Vinh",
+      "CollegeCode": "DVT",
+      "Province": "Trà Vinh"
+    },
+    {
+      "STT": 121,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghe-van-xuan?keyword=DVX",
+      "CollegeName": "Đại học Công Nghệ Vạn Xuân",
+      "CollegeCode": "DVX",
+      "Province": "Nghệ An"
+    },
+    {
+      "STT": 122,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-yersin-da-lat?keyword=DYD",
+      "CollegeName": "Đại học Yersin Đà Lạt",
+      "CollegeCode": "DYD",
+      "Province": "Lâm Đồng"
+    },
+    {
+      "STT": 123,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-quan-y-he-dan-su?keyword=DYH",
+      "CollegeName": "Học Viện Quân Y - Hệ Dân sự",
+      "CollegeCode": "DYH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 124,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-quoc-te-mien-dong?keyword=EIU",
+      "CollegeName": "Đại học Quốc tế Miền Đông",
+      "CollegeCode": "EIU",
+      "Province": "Bình Dương"
+    },
+    {
+      "STT": 125,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-hoa-binh?keyword=ETU",
+      "CollegeName": "Đại học Hòa Bình",
+      "CollegeCode": "ETU",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 126,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-tai-chinh-ngan-hang-ha-noi?keyword=FBU",
+      "CollegeName": "Đại học Tài Chính Ngân Hàng Hà Nội",
+      "CollegeCode": "FBU",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 127,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-fpt?keyword=FPT",
+      "CollegeName": "Đại Học FPT",
+      "CollegeCode": "FPT",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 128,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-gia-dinh?keyword=GDU",
+      "CollegeName": "Đại học Gia Định",
+      "CollegeCode": "GDU",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 129,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-giao-thong-van-tai-co-so-phia-bac?keyword=GHA",
+      "CollegeName": "Đại học Giao thông Vận tải ( Cơ sở Phía Bắc )",
+      "CollegeCode": "GHA",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 130,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-su-pham-nghe-thuat-trung-uong?keyword=GNT",
+      "CollegeName": "Đại Học Sư Phạm Nghệ Thuật Trung Ương",
+      "CollegeCode": "GNT",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 131,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-giao-thong-van-tai-co-so-phia-nam?keyword=GSA",
+      "CollegeName": "Đại học Giao thông Vận tải ( Cơ sở Phía Nam)",
+      "CollegeCode": "GSA",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 132,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghe-giao-thong-van-tai?keyword=GTA",
+      "CollegeName": "Đại học Công nghệ Giao thông vận tải",
+      "CollegeCode": "GTA",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 133,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-giao-thong-van-tai-tp-hcm?keyword=GTS",
+      "CollegeName": "Đại học Giao thông vận tải TP HCM",
+      "CollegeCode": "GTS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 134,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-bao-chi-va-tuyen-truyen?keyword=HBT",
+      "CollegeName": "Học viện Báo chí và Tuyên truyền",
+      "CollegeCode": "HBT",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 135,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-chinh-tri-cong-an-nhan-dan?keyword=HCA",
+      "CollegeName": "Học viện Chính Trị Công An Nhân Dân",
+      "CollegeCode": "HCA",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 136,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ky-thuat-hau-can-cong-an-nhan-dan-phia-bac?keyword=HCB",
+      "CollegeName": "Đại học Kỹ Thuật - Hậu Cần Công An Nhân Dân ( Phía Bắc )",
+      "CollegeCode": "HCB",
+      "Province": "Bắc Ninh"
+    },
+    {
+      "STT": 137,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-hanh-chinh-quoc-gia-phia-bac?keyword=HCH",
+      "CollegeName": "Học Viện Hành Chính Quốc Gia ( phía Bắc )",
+      "CollegeCode": "HCH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 138,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ky-thuat-hau-can-cong-an-nhan-dan-phia-nam?keyword=HCN",
+      "CollegeName": "Đại học Kỹ Thuật - Hậu Cần Công An Nhân Dân ( Phía Nam )",
+      "CollegeCode": "HCN",
+      "Province": "Đồng Nai"
+    },
+    {
+      "STT": 139,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-chinh-sach-va-phat-trien?keyword=HCP",
+      "CollegeName": "Học viện Chính sách và Phát triển",
+      "CollegeCode": "HCP",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 140,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-hanh-chinh-quoc-gia-phia-nam?keyword=HCS",
+      "CollegeName": "Học Viện Hành Chính Quốc Gia (phía Nam)",
+      "CollegeCode": "HCS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 141,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-hong-duc?keyword=HDT",
+      "CollegeName": "Đại học Hồng Đức",
+      "CollegeCode": "HDT",
+      "Province": "Thanh Hóa"
+    },
+    {
+      "STT": 142,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-hau-can-he-quan-su?keyword=HEH",
+      "CollegeName": "Học viện Hậu Cần - Hệ Quân sự",
+      "CollegeCode": "HEH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 143,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-tai-chinh-ke-toan?keyword=HFA",
+      "CollegeName": "Đại học Tài Chính Kế Toán",
+      "CollegeCode": "HFA",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 144,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-hau-can-he-dan-su?keyword=HFH",
+      "CollegeName": "Học Viện Hậu Cần - Hệ Dân sự",
+      "CollegeCode": "HFH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 145,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-phong-hoa?keyword=HGH",
+      "CollegeName": "Trường Sĩ Quan Phòng Hóa",
+      "CollegeCode": "HGH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 146,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-hang-hai-viet-nam?keyword=HHA",
+      "CollegeName": "Đại học Hàng hải Việt Nam",
+      "CollegeCode": "HHA",
+      "Province": "Hải Phòng"
+    },
+    {
+      "STT": 147,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-hang-khong-viet-nam?keyword=HHK",
+      "CollegeName": "Học viện Hàng không Việt Nam",
+      "CollegeCode": "HHK",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 148,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ha-tinh?keyword=HHT",
+      "CollegeName": "Đại học Hà Tĩnh",
+      "CollegeCode": "HHT",
+      "Province": "Hà Tĩnh"
+    },
+    {
+      "STT": 149,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-quoc-te-hong-bang?keyword=HIU",
+      "CollegeName": "Đại học Quốc tế Hồng Bàng",
+      "CollegeCode": "HIU",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 150,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ha-long?keyword=HLU",
+      "CollegeName": "Đại học Hạ Long",
+      "CollegeCode": "HLU",
+      "Province": "Quảng Ninh"
+    },
+    {
+      "STT": 151,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-thu-do-ha-noi?keyword=HNM",
+      "CollegeName": "Đại học Thủ Đô Hà Nội",
+      "CollegeCode": "HNM",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 152,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-phu-nu-viet-nam?keyword=HPN",
+      "CollegeName": "Học viện Phụ nữ Việt Nam",
+      "CollegeCode": "HPN",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 153,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-hai-quan?keyword=HQH",
+      "CollegeName": "Học viện Hải Quân",
+      "CollegeCode": "HQH",
+      "Province": "Khánh Hòa"
+    },
+    {
+      "STT": 154,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-ngoai-giao?keyword=HQT",
+      "CollegeName": "Học viện Ngoại giao",
+      "CollegeCode": "HQT",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 155,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-hoa-sen?keyword=HSU",
+      "CollegeName": "Đại học Hoa Sen",
+      "CollegeCode": "HSU",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 156,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-toa-an?keyword=HTA",
+      "CollegeName": "Học viện Tòa án",
+      "CollegeCode": "HTA",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 157,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-tai-chinh?keyword=HTC",
+      "CollegeName": "Học viện Tài chính",
+      "CollegeCode": "HTC",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 158,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-thanh-thieu-nien-viet-nam?keyword=HTN",
+      "CollegeName": "Học viện Thanh Thiếu Niên Việt Nam",
+      "CollegeCode": "HTN",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 159,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghiep-tp-hcm?keyword=HUI",
+      "CollegeName": "Đại học Công nghiệp TP HCM",
+      "CollegeCode": "HUI",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 160,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-am-nhac-hue?keyword=HVA",
+      "CollegeName": "Học Viện Âm Nhạc Huế",
+      "CollegeCode": "HVA",
+      "Province": "Huế"
+    },
+    {
+      "STT": 161,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-can-bo-tp-hcm?keyword=HVC",
+      "CollegeName": "Học viện cán bộ TP HCM",
+      "CollegeCode": "HVC",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 162,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-nong-nghiep-viet-nam?keyword=HVN",
+      "CollegeName": "Học viện Nông Nghiệp Việt Nam",
+      "CollegeCode": "HVN",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 163,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-quan-ly-giao-duc?keyword=HVQ",
+      "CollegeName": "Học viện Quản Lý Giáo Dục",
+      "CollegeCode": "HVQ",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 164,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-y-duoc-hoc-co-truyen-viet-nam?keyword=HYD",
+      "CollegeName": "Học viện Y Dược học cổ truyền Việt Nam",
+      "CollegeCode": "HYD",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 165,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ky-thuat-cong-nghe-can-tho?keyword=KCC",
+      "CollegeName": "Đại học Kỹ thuật Công nghệ Cần Thơ",
+      "CollegeCode": "KCC",
+      "Province": "Cần Thơ"
+    },
+    {
+      "STT": 166,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-khoa-hoc-va-cong-nghe-ha-noi?keyword=KCN",
+      "CollegeName": "Đại học Khoa Học Và Công Nghệ Hà Nội",
+      "CollegeCode": "KCN",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 167,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-khong-quan-he-dai-hoc?keyword=KGH",
+      "CollegeName": "Trường Sĩ Quan Không Quân - Hệ Đại học",
+      "CollegeCode": "KGH",
+      "Province": "Khánh Hòa"
+    },
+    {
+      "STT": 168,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-te-quoc-dan?keyword=KHA",
+      "CollegeName": "Đại học Kinh tế quốc dân",
+      "CollegeCode": "KHA",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 169,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/phan-hieu-hvktmm-tai-tp-hcm?keyword=KMA",
+      "CollegeName": "Phân hiệu HVKTMM tại TP HCM",
+      "CollegeCode": "KMA",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 170,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-ki-thuat-quan-su-he-quan-su?keyword=KQH",
+      "CollegeName": "Học viện Kĩ Thuật Quân Sự - Hệ Quân sự",
+      "CollegeCode": "KQH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 171,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-te-tp-hcm?keyword=KSA",
+      "CollegeName": "Đại học Kinh tế TP HCM",
+      "CollegeCode": "KSA",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 172,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kien-truc-ha-noi?keyword=KTA",
+      "CollegeName": "Đại học Kiến trúc Hà Nội",
+      "CollegeCode": "KTA",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 173,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kien-truc-da-nang?keyword=KTD",
+      "CollegeName": "Đại học Kiến trúc Đà Nẵng",
+      "CollegeCode": "KTD",
+      "Province": "Đà Nẵng"
+    },
+    {
+      "STT": 174,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kien-truc-tai-trung-tam-dao-tao-co-so-can-tho?keyword=KTS",
+      "CollegeName": "Đại học Kiến trúc tại Trung tâm đào tạo cơ sở Cần Thơ",
+      "CollegeCode": "KTS",
+      "Province": "Cần Thơ"
+    },
+    {
+      "STT": 175,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-luc-quan-1-dai-hoc-tran-quoc-tuan?keyword=LAH",
+      "CollegeName": "Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn",
+      "CollegeCode": "LAH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 176,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-luc-quan-2-dai-hoc-nguyen-hue?keyword=LBH",
+      "CollegeName": "Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ",
+      "CollegeCode": "LBH",
+      "Province": "Đồng Nai"
+    },
+    {
+      "STT": 177,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-nguyen-hue?keyword=LBS",
+      "CollegeName": "Đại học Nguyễn Huệ",
+      "CollegeCode": "LBS",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 178,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-chinh-tri-dai-hoc-chinh-tri?keyword=LCH",
+      "CollegeName": "Trường Sĩ Quan Chính Trị - Đại học Chính Trị",
+      "CollegeCode": "LCH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 179,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-chinh-tri-he-dan-su?keyword=LCS",
+      "CollegeName": "Trường Sĩ quan Chính trị (hệ dân sự)",
+      "CollegeCode": "LCS",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 180,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-doan?keyword=LDA",
+      "CollegeName": "Đại học Công đoàn",
+      "CollegeCode": "LDA",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 181,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-lam-nghiep-co-so-1?keyword=LNH",
+      "CollegeName": "Đại học Lâm nghiệp (Cơ sở 1)",
+      "CollegeCode": "LNH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 182,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-lam-nghiep-co-so-2?keyword=LNS",
+      "CollegeName": "Đại học Lâm nghiệp (Cơ sở 2)",
+      "CollegeCode": "LNS",
+      "Province": "Đồng Nai"
+    },
+    {
+      "STT": 183,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-luat-ha-noi?keyword=LPH",
+      "CollegeName": "Đại học Luật Hà Nội",
+      "CollegeCode": "LPH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 184,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-luat-tp-hcm?keyword=LPS",
+      "CollegeName": "Đại học Luật TP HCM",
+      "CollegeCode": "LPS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 185,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-mo-tp-hcm?keyword=MBS",
+      "CollegeName": "Đại học Mở TP HCM",
+      "CollegeCode": "MBS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 186,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-my-thuat-cong-nghiep-a-chau?keyword=MCA",
+      "CollegeName": "Đại Học Mỹ Thuật Công Nghiệp Á Châu",
+      "CollegeCode": "MCA",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 187,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-mo-dia-chat?keyword=MDA",
+      "CollegeName": "Đại học Mỏ - Địa chất",
+      "CollegeCode": "MDA",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 188,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-mo-ha-noi?keyword=MHN",
+      "CollegeName": "Đại học Mở Hà Nội",
+      "CollegeCode": "MHN",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 189,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-my-thuat-cong-nghiep?keyword=MTC",
+      "CollegeName": "Đại học Mỹ thuật Công nghiệp",
+      "CollegeCode": "MTC",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 190,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-my-thuat-viet-nam?keyword=MTH",
+      "CollegeName": "Đại học Mỹ Thuật Việt Nam",
+      "CollegeCode": "MTH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 191,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-my-thuat-tp-hcm?keyword=MTS",
+      "CollegeName": "Đại học Mỹ Thuật TP HCM",
+      "CollegeCode": "MTS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 192,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-xay-dung-mien-tay?keyword=MTU",
+      "CollegeName": "Đại học Xây dựng Miền Tây",
+      "CollegeCode": "MTU",
+      "Province": "Vĩnh Long"
+    },
+    {
+      "STT": 193,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-ngan-hang-phan-vien-bac-ninh?keyword=NHB",
+      "CollegeName": "Học viện Ngân Hàng Phân Viện Bắc Ninh",
+      "CollegeCode": "NHB",
+      "Province": "Bắc Ninh"
+    },
+    {
+      "STT": 194,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ha-noi?keyword=NHF",
+      "CollegeName": "Đại học Hà Nội",
+      "CollegeCode": "NHF",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 195,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-ngan-hang?keyword=NHH",
+      "CollegeName": "Học viện Ngân hàng",
+      "CollegeCode": "NHH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 196,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-ngan-hang-phan-vien-phu-yen?keyword=NHP",
+      "CollegeName": "Học Viên Ngân Hàng (Phân Viện Phú Yên)",
+      "CollegeCode": "NHP",
+      "Province": "Phú Yên"
+    },
+    {
+      "STT": 197,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ngan-hang-tp-hcm?keyword=NHS",
+      "CollegeName": "Đại học Ngân hàng TP HCM",
+      "CollegeCode": "NHS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 198,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/phan-hieu-dai-hoc-nong-lam-tp-hcm-tai-gia-lai?keyword=NLG",
+      "CollegeName": "Phân hiệu Đại học Nông Lâm TP HCM tại Gia Lai",
+      "CollegeCode": "NLG",
+      "Province": "Gia Lai"
+    },
+    {
+      "STT": 199,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/phan-hieu-dai-hoc-nong-lam-tp-hcm-tai-ninh-thuan?keyword=NLN",
+      "CollegeName": "Phân hiệu Đại học Nông Lâm TP HCM tại Ninh Thuận",
+      "CollegeCode": "NLN",
+      "Province": "Ninh Thuận"
+    },
+    {
+      "STT": 200,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-nong-lam-tp-hcm?keyword=NLS",
+      "CollegeName": "Đại học Nông Lâm TP HCM",
+      "CollegeCode": "NLS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 201,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-khoa-hoc-quan-su-he-quan-su?keyword=NQH",
+      "CollegeName": "Học viện Khoa Học Quân Sự - Hệ Quân sự",
+      "CollegeCode": "NQH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 202,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ngoai-thuong-phia-bac?keyword=NTH",
+      "CollegeName": "Đại học Ngoại thương (phía Bắc)",
+      "CollegeCode": "NTH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 203,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ngoai-thuong-phia-nam?keyword=NTS",
+      "CollegeName": "Đại học Ngoại thương (phía Nam)",
+      "CollegeCode": "NTS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 204,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-nguyen-tat-thanh?keyword=NTT",
+      "CollegeName": "Đại học Nguyễn Tất Thành",
+      "CollegeCode": "NTT",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 205,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-nguyen-trai?keyword=NTU",
+      "CollegeName": "Đại học Nguyễn Trãi",
+      "CollegeCode": "NTU",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 206,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-am-nhac-quoc-gia-viet-nam?keyword=NVH",
+      "CollegeName": "Học Viện Âm Nhạc Quốc Gia Việt Nam",
+      "CollegeCode": "NVH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 207,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/nhac-vien-tp-hcm?keyword=NVS",
+      "CollegeName": "Nhạc viện TP HCM",
+      "CollegeCode": "NVS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 208,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-phao-binh?keyword=PBH",
+      "CollegeName": "Trường Sĩ Quan Pháo Binh",
+      "CollegeCode": "PBH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 209,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-phong-chay-chua-chay-phia-bac?keyword=PCH",
+      "CollegeName": "Đại học Phòng Cháy Chữa Cháy ( Phía Bắc )",
+      "CollegeCode": "PCH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 210,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-phong-chay-chua-chay-he-dan-su-phia-bac?keyword=PCH1",
+      "CollegeName": "Đại học Phòng Cháy Chữa Cháy ( Hệ Dân sự Phía Bắc )",
+      "CollegeCode": "PCH1",
+      "Province": "Hòa Bình"
+    },
+    {
+      "STT": 211,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-phong-chay-chua-chay-phia-nam?keyword=PCS",
+      "CollegeName": "Đại học Phòng Cháy Chữa Cháy (phía Nam)",
+      "CollegeCode": "PCS",
+      "Province": "Đồng Nai"
+    },
+    {
+      "STT": 212,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-phong-chay-chua-chay-he-dan-su-phia-nam?keyword=PCS1",
+      "CollegeName": "Đại học Phòng Cháy Chữa Cháy (Hệ Dân sự Phía Nam)",
+      "CollegeCode": "PCS1",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 213,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-phong-khong-khong-quan?keyword=PKH",
+      "CollegeName": "Học viện Phòng Không - Không Quân",
+      "CollegeCode": "PKH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 214,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-dau-khi-viet-nam?keyword=PVU",
+      "CollegeName": "Đại học Dầu khí Việt Nam",
+      "CollegeCode": "PVU",
+      "Province": "Bà Rịa - Vũng Tàu"
+    },
+    {
+      "STT": 215,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/khoa-quan-tri-va-kinh-doanh-dh-quoc-gia-ha-noi?keyword=QHD",
+      "CollegeName": "Khoa Quản trị và Kinh doanh - ĐH Quốc gia Hà Nội",
+      "CollegeCode": "QHD",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 216,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-te-dai-hoc-quoc-gia-ha-noi?keyword=QHE",
+      "CollegeName": "Đại học Kinh Tế - Đại học Quốc Gia Hà Nội",
+      "CollegeCode": "QHE",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 217,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ngoai-ngu-dai-hoc-quoc-gia-ha-noi?keyword=QHF",
+      "CollegeName": "Đại học Ngoại ngữ - Đại học Quốc Gia Hà Nội",
+      "CollegeCode": "QHF",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 218,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghe-dai-hoc-quoc-gia-ha-noi?keyword=QHI",
+      "CollegeName": "Đại học Công nghệ - Đại học Quốc gia Hà Nội",
+      "CollegeCode": "QHI",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 219,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/khoa-cac-khoa-hoc-lien-nganh-dai-hoc-quoc-gia-ha-noi?keyword=QHK",
+      "CollegeName": "Khoa các khoa học liên ngành - Đại học Quốc gia Hà Nội",
+      "CollegeCode": "QHK",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 220,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/khoa-luat-dai-hoc-quoc-gia-ha-noi?keyword=QHL",
+      "CollegeName": "Khoa Luật - Đại học Quốc gia Hà Nội",
+      "CollegeCode": "QHL",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 221,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/khoa-quoc-te-dai-hoc-quoc-gia-ha-noi?keyword=QHQ",
+      "CollegeName": "Khoa Quốc Tế - Đại học Quốc Gia Hà Nội",
+      "CollegeCode": "QHQ",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 222,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-giao-duc-dai-hoc-quoc-gia-ha-noi?keyword=QHS",
+      "CollegeName": "Đại học Giáo dục - Đại học Quốc gia Hà Nội",
+      "CollegeCode": "QHS",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 223,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-ha-noi?keyword=QHT",
+      "CollegeName": "Đại học Khoa học tự nhiên - Đại học Quốc Gia Hà Nội",
+      "CollegeCode": "QHT",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 224,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-ha-noi?keyword=QHX",
+      "CollegeName": "Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Hà Nội",
+      "CollegeCode": "QHX",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 225,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi?keyword=QHY",
+      "CollegeName": "Đại học Y Dược - Đại học Quốc Gia Hà Nội",
+      "CollegeCode": "QHY",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 226,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-an-giang-dai-hoc-quoc-gia-tp-hcm?keyword=QSA",
+      "CollegeName": "Đại học An Giang - Đại học Quốc gia TP HCM",
+      "CollegeCode": "QSA",
+      "Province": "An Giang"
+    },
+    {
+      "STT": 227,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-bach-khoa-dai-hoc-quoc-gia-tp-hcm?keyword=QSB",
+      "CollegeName": "Đại học Bách khoa - Đại học Quốc gia TP HCM",
+      "CollegeCode": "QSB",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 228,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghe-thong-tin-dai-hoc-quoc-gia-tp-hcm?keyword=QSC",
+      "CollegeName": "Đại học Công nghệ Thông tin - Đại học Quốc gia TP HCM",
+      "CollegeCode": "QSC",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 229,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/khoa-chinh-tri-hanh-chinh-dai-hoc-quoc-gia-tp-hcm?keyword=QSH",
+      "CollegeName": "Khoa Chính trị - Hành chính - Đại học Quốc gia TP HCM",
+      "CollegeCode": "QSH",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 230,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-te-luat-dai-hoc-quoc-gia-tp-hcm?keyword=QSK",
+      "CollegeName": "Đại học Kinh tế - Luật, Đại học Quốc gia TP HCM",
+      "CollegeCode": "QSK",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 231,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-quoc-te-dai-hoc-quoc-gia-tp-hcm?keyword=QSQ",
+      "CollegeName": "Đại học Quốc tế - Đại học Quốc gia TP HCM",
+      "CollegeCode": "QSQ",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 232,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-tp-hcm?keyword=QST",
+      "CollegeName": "Đại học Khoa học Tự nhiên - Đại học Quốc gia TP HCM",
+      "CollegeCode": "QST",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 233,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-tp-hcm?keyword=QSX",
+      "CollegeName": "Đại học Khoa học xã hội và Nhân văn - Đại học Quốc gia TP HCM",
+      "CollegeCode": "QSX",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 234,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/khoa-y-dai-hoc-quoc-gia-tp-hcm?keyword=QSY",
+      "CollegeName": "Khoa Y - Đại học Quốc Gia TP HCM",
+      "CollegeCode": "QSY",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 235,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-sao-do?keyword=SDU",
+      "CollegeName": "Đại học Sao Đỏ",
+      "CollegeCode": "SDU",
+      "Province": "Hải Dương"
+    },
+    {
+      "STT": 236,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-sai-gon?keyword=SGD",
+      "CollegeName": "Đại học Sài Gòn",
+      "CollegeCode": "SGD",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 237,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-san-khau-dien-anh?keyword=SKD",
+      "CollegeName": "Đại Học Sân Khấu Điện Ảnh",
+      "CollegeCode": "SKD",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 238,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-su-pham-ky-thuat-hung-yen?keyword=SKH",
+      "CollegeName": "Đại học Sư phạm Kỹ thuật Hưng Yên",
+      "CollegeCode": "SKH",
+      "Province": "Hưng Yên"
+    },
+    {
+      "STT": 239,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-su-pham-ky-thuat-nam-dinh?keyword=SKN",
+      "CollegeName": "Đại Học Sư Phạm Kỹ Thuật Nam Định",
+      "CollegeCode": "SKN",
+      "Province": "Nam Định"
+    },
+    {
+      "STT": 240,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-su-pham-ky-thuat-vinh?keyword=SKV",
+      "CollegeName": "Đại học Sư Phạm Kỹ Thuật Vinh",
+      "CollegeCode": "SKV",
+      "Province": "Nghệ An"
+    },
+    {
+      "STT": 241,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-cong-binh-he-quan-su-dai-hoc-ngo-quyen?keyword=SNH",
+      "CollegeName": "Trường Sĩ Quan Công Binh - Hệ Quân sự - Đại học Ngô Quyền",
+      "CollegeCode": "SNH",
+      "Province": "Bình Dương"
+    },
+    {
+      "STT": 242,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-su-pham-ha-noi-2?keyword=SP2",
+      "CollegeName": "Đại học Sư phạm Hà Nội 2",
+      "CollegeCode": "SP2",
+      "Province": "Vĩnh Phúc"
+    },
+    {
+      "STT": 243,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-dong-thap?keyword=SPD",
+      "CollegeName": "Đại học Đồng Tháp",
+      "CollegeCode": "SPD",
+      "Province": "Đồng Tháp"
+    },
+    {
+      "STT": 244,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-su-pham-ha-noi?keyword=SPH",
+      "CollegeName": "Đại học Sư phạm Hà Nội",
+      "CollegeCode": "SPH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 245,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-su-pham-ky-thuat-tp-hcm?keyword=SPK",
+      "CollegeName": "Đại học Sư phạm Kỹ thuật TP HCM",
+      "CollegeCode": "SPK",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 246,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-su-pham-tp-hcm?keyword=SPS",
+      "CollegeName": "Đại học Sư Phạm TP HCM",
+      "CollegeCode": "SPS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 247,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-su-pham-the-duc-the-thao-tp-hcm?keyword=STS",
+      "CollegeName": "Đại học Sư phạm Thể dục thể thao TP HCM",
+      "CollegeCode": "STS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 248,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-thai-binh-duong?keyword=TBD",
+      "CollegeName": "Đại học Thái Bình Dương",
+      "CollegeCode": "TBD",
+      "Province": "Khánh Hòa"
+    },
+    {
+      "STT": 249,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-can-tho?keyword=TCT",
+      "CollegeName": "Đại học Cần Thơ",
+      "CollegeCode": "TCT",
+      "Province": "Cần Thơ"
+    },
+    {
+      "STT": 250,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-thong-tin-he-dan-su-dai-hoc-thong-tin-lien-lac?keyword=TCU",
+      "CollegeName": "Trường Sĩ Quan Thông Tin - Hệ Dân Sự - Đại Học Thông Tin Liên Lạc",
+      "CollegeCode": "TCU",
+      "Province": "Khánh Hòa"
+    },
+    {
+      "STT": 251,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-the-duc-the-thao-bac-ninh?keyword=TDB",
+      "CollegeName": "Đại Học Thể Dục Thể Thao Bắc Ninh",
+      "CollegeCode": "TDB",
+      "Province": "Bắc Ninh"
+    },
+    {
+      "STT": 252,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-thanh-do?keyword=TDD",
+      "CollegeName": "Đại học Thành Đô",
+      "CollegeCode": "TDD",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 253,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-su-pham-the-duc-the-thao-ha-noi?keyword=TDH",
+      "CollegeName": "Đại Học Sư Phạm Thể Dục Thể Thao Hà Nội",
+      "CollegeCode": "TDH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 254,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-da-lat?keyword=TDL",
+      "CollegeName": "Đại học Đà Lạt",
+      "CollegeCode": "TDL",
+      "Province": "Lâm Đồng"
+    },
+    {
+      "STT": 255,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-thu-dau-mot?keyword=TDM",
+      "CollegeName": "Đại học Thủ Dầu Một",
+      "CollegeCode": "TDM",
+      "Province": "Bình Dương"
+    },
+    {
+      "STT": 256,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-the-duc-the-thao-tp-hcm?keyword=TDS",
+      "CollegeName": "Đại học Thể dục Thể thao TP HCM",
+      "CollegeCode": "TDS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 257,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-vinh?keyword=TDV",
+      "CollegeName": "Đại học Vinh",
+      "CollegeCode": "TDV",
+      "Province": "Nghệ An"
+    },
+    {
+      "STT": 258,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-tang-thiet-giap?keyword=TGH",
+      "CollegeName": "Trường Sĩ  Quan Tăng - Thiết Giáp",
+      "CollegeCode": "TGH",
+      "Province": "Vĩnh Phúc"
+    },
+    {
+      "STT": 259,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-hai-phong?keyword=THP",
+      "CollegeName": "Đại học Hải Phòng",
+      "CollegeCode": "THP",
+      "Province": "Hải Phòng"
+    },
+    {
+      "STT": 260,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-hung-vuong?keyword=THV",
+      "CollegeName": "Đại học Hùng Vương",
+      "CollegeCode": "THV",
+      "Province": "Phú Thọ"
+    },
+    {
+      "STT": 261,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kien-giang?keyword=TKG",
+      "CollegeName": "Đại học Kiên Giang",
+      "CollegeCode": "TKG",
+      "Province": "Kiên Giang"
+    },
+    {
+      "STT": 262,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-thuy-loi-co-so-1?keyword=TLA",
+      "CollegeName": "Đại học Thủy Lợi ( Cơ sở 1 )",
+      "CollegeCode": "TLA",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 263,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-thuy-loi-co-so-2?keyword=TLS",
+      "CollegeName": "Đại Học Thủy Lợi ( Cơ sở 2 )",
+      "CollegeCode": "TLS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 264,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-thuong-mai?keyword=TMA",
+      "CollegeName": "Đại học Thương mại",
+      "CollegeCode": "TMA",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 265,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-tan-trao?keyword=TQU",
+      "CollegeName": "Đại học Tân Trào",
+      "CollegeCode": "TQU",
+      "Province": "Tuyên Quang"
+    },
+    {
+      "STT": 266,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-nha-trang?keyword=TSN",
+      "CollegeName": "Đại học Nha Trang",
+      "CollegeCode": "TSN",
+      "Province": "Khánh Hòa"
+    },
+    {
+      "STT": 267,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-tay-bac?keyword=TTB",
+      "CollegeName": "Đại học Tây Bắc",
+      "CollegeCode": "TTB",
+      "Province": "Sơn La"
+    },
+    {
+      "STT": 268,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-the-duc-the-thao-da-nang?keyword=TTD",
+      "CollegeName": "Đại Học Thể Dục Thể Thao Đà Nẵng",
+      "CollegeCode": "TTD",
+      "Province": "Đà Nẵng"
+    },
+    {
+      "STT": 269,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-tien-giang?keyword=TTG",
+      "CollegeName": "Đại học Tiền Giang",
+      "CollegeCode": "TTG",
+      "Province": "Tiền Giang"
+    },
+    {
+      "STT": 270,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-thong-tin-he-quan-su-dai-hoc-thong-tin-lien-lac?keyword=TTH",
+      "CollegeName": "Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại học Thông Tin Liên Lạc",
+      "CollegeCode": "TTH",
+      "Province": "Khánh Hòa"
+    },
+    {
+      "STT": 271,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-tay-nguyen?keyword=TTN",
+      "CollegeName": "Đại học Tây Nguyên",
+      "CollegeCode": "TTN",
+      "Province": "Đắk Lắk"
+    },
+    {
+      "STT": 272,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-quoc-te-sai-gon?keyword=TTQ",
+      "CollegeName": "Đại học Quốc tế Sài Gòn",
+      "CollegeCode": "TTQ",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 273,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-tan-tao?keyword=TTU",
+      "CollegeName": "Đại học Tân Tạo",
+      "CollegeCode": "TTU",
+      "Province": "Long An"
+    },
+    {
+      "STT": 274,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-y-khoa-pham-ngoc-thach?keyword=TYS",
+      "CollegeName": "Đại Học Y Khoa Phạm Ngọc Thạch",
+      "CollegeCode": "TYS",
+      "Province": "TP.HCM"
+    },
+    {
+      "STT": 275,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-te-tai-chinh-tp-hcm?keyword=UEF",
+      "CollegeName": "Đại học Kinh Tế -Tài Chính TP HCM",
+      "CollegeCode": "UEF",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 276,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-kinh-bac?keyword=UKB",
+      "CollegeName": "Đại học Kinh Bắc",
+      "CollegeCode": "UKB",
+      "Province": "Bắc Ninh"
+    },
+    {
+      "STT": 277,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-khanh-hoa?keyword=UKH",
+      "CollegeName": "Đại học Khánh Hòa",
+      "CollegeCode": "UKH",
+      "Province": "Khánh Hòa"
+    },
+    {
+      "STT": 278,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-viet-duc?keyword=VGU",
+      "CollegeName": "Đại học Việt Đức",
+      "CollegeCode": "VGU",
+      "Province": "Bình Dương"
+    },
+    {
+      "STT": 279,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghiep-viet-hung?keyword=VHD",
+      "CollegeName": "Đại Học Công Nghiệp Việt Hung",
+      "CollegeCode": "VHD",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 280,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-van-hoa-ha-noi?keyword=VHH",
+      "CollegeName": "Đại học Văn Hóa Hà Nội",
+      "CollegeCode": "VHH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 281,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-van-hoa-tp-hcm?keyword=VHS",
+      "CollegeName": "Đại học Văn hoá TP HCM",
+      "CollegeCode": "VHS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 282,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-viet-nhat-dai-hoc-quoc-gia-ha-noi?keyword=VJU",
+      "CollegeName": "Đại học Việt Nhật - Đại học Quốc gia Hà Nội",
+      "CollegeCode": "VJU",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 283,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghe-thong-tin-va-truyen-thong-viet-han?keyword=VKU",
+      "CollegeName": "Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn",
+      "CollegeCode": "VKU",
+      "Province": "Đà Nẵng"
+    },
+    {
+      "STT": 284,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-su-pham-ky-thuat-vinh-long?keyword=VLU",
+      "CollegeName": "Đại học Sư phạm Kỹ thuật Vĩnh Long",
+      "CollegeCode": "VLU",
+      "Province": "Vĩnh Long"
+    },
+    {
+      "STT": 285,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-ki-thuat-quan-su-he-quan-su-dai-hoc-tran-dai-nghia?keyword=VPH",
+      "CollegeName": "Trường Sĩ Quan Kĩ Thuật Quân Sự -  Hệ Quân sự - Đại Học Trần Đại Nghĩa",
+      "CollegeCode": "VPH",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 286,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-vo-truong-toan?keyword=VTT",
+      "CollegeName": "Đại học Võ Trường Toản",
+      "CollegeCode": "VTT",
+      "Province": "Hậu Giang"
+    },
+    {
+      "STT": 287,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-cong-nghiep-viet-tri?keyword=VUI",
+      "CollegeName": "Đại Học Công Nghiệp Việt Trì",
+      "CollegeCode": "VUI",
+      "Province": "Phú Thọ"
+    },
+    {
+      "STT": 288,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-xay-dung-ha-noi?keyword=XDA",
+      "CollegeName": "Đại học Xây dựng Hà Nội",
+      "CollegeCode": "XDA",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 289,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-xay-dung-mien-trung?keyword=XDT",
+      "CollegeName": "Đại học Xây dựng Miền Trung",
+      "CollegeCode": "XDT",
+      "Province": "Phú Yên"
+    },
+    {
+      "STT": 290,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-y-duoc-can-tho?keyword=YCT",
+      "CollegeName": "Đại học Y Dược Cần Thơ",
+      "CollegeCode": "YCT",
+      "Province": "Cần Thơ"
+    },
+    {
+      "STT": 291,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-dieu-duong-nam-dinh?keyword=YDD",
+      "CollegeName": "Đại học Điều Dưỡng Nam Định",
+      "CollegeCode": "YDD",
+      "Province": "Nam Định"
+    },
+    {
+      "STT": 292,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-ky-thuat-y-duoc-da-nang?keyword=YDN",
+      "CollegeName": "Đại học Kỹ thuật Y Dược Đà Nẵng",
+      "CollegeCode": "YDN",
+      "Province": "Đà Nẵng"
+    },
+    {
+      "STT": 293,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-y-duoc-tp-hcm?keyword=YDS",
+      "CollegeName": "Đại học Y Dược TP HCM",
+      "CollegeCode": "YDS",
+      "Province": "TP HCM"
+    },
+    {
+      "STT": 294,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-y-ha-noi?keyword=YHB",
+      "CollegeName": "Đại học Y Hà Nội",
+      "CollegeCode": "YHB",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 295,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-y-khoa-vinh?keyword=YKV",
+      "CollegeName": "Đại học Y Khoa Vinh",
+      "CollegeCode": "YKV",
+      "Province": "Nghệ An"
+    },
+    {
+      "STT": 296,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-y-duoc-hai-phong?keyword=YPB",
+      "CollegeName": "Đại học Y Dược Hải Phòng",
+      "CollegeCode": "YPB",
+      "Province": "Hải Phòng"
+    },
+    {
+      "STT": 297,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/hoc-vien-quan-y-he-quan-su?keyword=YQH",
+      "CollegeName": "Học viện Quân Y - Hệ Quân sự",
+      "CollegeCode": "YQH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 298,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-y-duoc-thai-binh?keyword=YTB",
+      "CollegeName": "Đại học Y Dược Thái Bình",
+      "CollegeCode": "YTB",
+      "Province": "Thái Bình"
+    },
+    {
+      "STT": 299,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-y-te-cong-cong?keyword=YTC",
+      "CollegeName": "Đại học Y Tế Công Cộng",
+      "CollegeCode": "YTC",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 300,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-cong-binh-he-dan-su-dai-hoc-ngo-quyen?keyword=ZCH",
+      "CollegeName": "Trường Sĩ Quan Công Binh - Hệ Dân sự - Đại học Ngô Quyền",
+      "CollegeCode": "ZCH",
+      "Province": "Bình Dương"
+    },
+    {
+      "STT": 301,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/dai-hoc-van-hoa-nghe-thuat-quan-doi?keyword=ZNH",
+      "CollegeName": "Đại Học Văn Hóa – Nghệ Thuật Quân Đội",
+      "CollegeCode": "ZNH",
+      "Province": "Hà Nội"
+    },
+    {
+      "STT": 302,
+      "GradeListInfo": "https://vietnamnet.vn//giao-duc/diem-thi/tra-cuu-diem-chuan-cd-dh-2023/truong/truong-si-quan-ki-thuat-quan-su-he-dan-su-dai-hoc-tran-dai-nghia?keyword=ZPH",
+      "CollegeName": "Trường Sĩ Quan Kĩ Thuật Quân Sự - Hệ Dân sự - Đại Học Trần Đại Nghĩa",
+      "CollegeCode": "ZPH",
+      "Province": "TP HCM"
+    }
+  ]

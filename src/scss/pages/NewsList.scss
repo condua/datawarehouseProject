@@ -1,0 +1,42 @@
+.NewsList{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    ul{
+        list-style-type: none;
+        li{
+            font-size: 30px;
+            border-bottom: 1px solid black;
+            // border-top: 1px solid black;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-right: 30px;
+            .infor{
+                justify-content: center;
+                align-items: center;
+                margin: 20px 0px 20px 0px;
+                font-weight: bold;
+                text-decoration: none;
+                color: black;
+                .picture{
+                    width: 500px;
+                    height: 300px;
+                }
+                @media only screen and (max-width:768px) {
+                    font-size: 20px;
+                    .picture{
+                        width: 250px;
+                        height: 150px;
+                    }
+                }
+            }
+            .infor:hover{
+                // font-size: 50px;
+            }
+        }
+    }
+}

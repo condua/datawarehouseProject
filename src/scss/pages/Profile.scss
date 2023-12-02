@@ -1,0 +1,113 @@
+.Profile {
+    position: relative;
+    margin: auto;
+    width: 80%;
+    height: 95vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    background-color: #f0f0f0; // Màu nền của Profile
+    border-radius: 10px;
+
+    &::before,
+    &::after {
+        content: '';
+        position: absolute;
+        width: 50%;
+        height: 100%;
+        background: inherit;
+        z-index: -1;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); // Điều chỉnh bóng theo ý muốn
+    }
+
+    &::before {
+        left: 0;
+    }
+
+    &::after {
+        right: 0;
+    }
+
+    // Các phần tử con của Profile
+    .container-avatar {
+        width: 40%;
+        height: 100%;
+        // border: 1px solid black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        position: relative; // Để có thể sử dụng position absolute cho .hovered
+        box-shadow: 5px 10px 30px rgba(0, 0, 0, 0.5); // Thay đổi giá trị để thích hợp với thiết kế của bạn
+        border-radius: 10px 0px 0px 10px;
+
+        .avatar {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+        }
+
+        .hovered {
+            position: absolute;
+            width: 200px;
+            height: 200px;
+            background-image: url('https://cdn-icons-png.flaticon.com/512/3178/3178179.png');
+            opacity: 0.5;
+            background-position: center;
+            background-size: contain;
+            // Thêm box-shadow
+            box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); // Thay đổi giá trị để thích hợp với thiết kế của bạn
+        }
+    }
+
+    .container-informations {
+        width: 60%;
+        height: 100%;
+        // border: 1px solid black;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); // Điều chỉnh giá trị để phù hợp với thiết kế của bạn
+        border-radius: 0px 10px 10px 0px;
+
+        .items {
+            width: 90%;
+            display: flex;
+            flex-direction: column;
+
+            input,
+            select {
+                padding: 10px;
+                border-radius: 10px;
+            }
+        }
+    }
+}
+@media only screen and (max-width: 768px) {
+    .Profile{
+        height: 127vh;
+        display: flex;
+        flex-direction: column;
+        .container-avatar{
+            width: 100%;
+            height: 200px;
+            border-radius: 10px 10px 0px 0px;
+            .avatar{
+                width: 100px;
+                height: 100px;
+            }
+            .hovered{
+                width: 100px;
+                height: 100px;
+            }
+        }
+        .container-informations{
+            border-radius: 0px 0px 10px 10px;
+
+            width: 100%;
+        }
+    }
+}

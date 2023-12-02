@@ -1,0 +1,60 @@
+.Footer{
+    width: 100%;
+    height: 300px;
+    // position: fixed;
+    // bottom: 0px;
+    background-image: url('https://e-learning.hcmut.edu.vn/theme/image.php/boost/theme/1685588876/hcmut2');
+    position: relative;
+    .bgtrans-overlay{
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: #0d5ca1b0;
+        z-index: 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        .footer-content{
+            height: 100%;
+            width: 90%;
+            // background-color: antiquewhite;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            .footer-content-detail{
+                width: 30%;
+                height: 100%;
+                // background-color: pink;
+                color: white;
+                a{
+                    color: white;
+                    text-decoration: none;
+                }
+                a:hover{
+                    text-decoration: underline;
+                }
+                @media screen and (max-width:400px)
+                {
+                    font-size: 10px;
+                }
+            }
+        }
+    }
+    .footer-bottom{
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        padding: 15px 0;
+        background-color: #164399!important;
+        text-align: center;
+        color: white;
+    }
+}
+@media only  screen and (max-width: 1200px)
+{
+    .Footer{
+        height: 300px;
+    }
+}
